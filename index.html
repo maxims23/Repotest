@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>GoBus v0.3</title>
+<link rel="stylesheet" href="main.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script src="https://ajax.aspnetcdn.com/ajax/jquery.ui/1.9.2/jquery-ui.min.js"></script>
+<script src="main.js"></script>
+</head>
+<body>
+
+<a href="http://www.jquery2dotnet.com">http://www.jquery2dotnet.com</a>
+
+<br>
+<br>
+<div id="project-label">Select a project (type "j" for a start):</div>
+<input id="project">
+<input type="hidden" id="project-id">
+<p id="project-description"></p>
+
+</body>
+</html>
